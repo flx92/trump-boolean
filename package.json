@@ -1,0 +1,10 @@
+{
+  "name": "trump-boolean",
+  "description": "Check programatically if Donald Trump is still prasident",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flx/trump-boolean"
+  },
+  "license": "MIT"
+}
