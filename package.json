@@ -4,7 +4,16 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/flx/trump-boolean"
+    "url": "git+https://github.com/flx/trump-boolean.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flx/trump-boolean/issues"
+  },
+  "homepage": "https://github.com/flx/trump-boolean#readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felix Scheffel <felix.scheffel@sinnerschrader.com>"
 }
