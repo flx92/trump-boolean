@@ -1,14 +1,11 @@
-> Minimal package for educational purposes
+# Trump Boolean
 
-# minimal-package
-
-This package is intended to show the bare minimum required to make up a
-Node.js package.
+Ask the script if Donald Trump it's still president.
 
 ## Installation
 
 ```
-npm install --save minimal-package
+npm install --save trump-boolean
 ```
 
 ## Usage
@@ -19,4 +16,4 @@ console.log(minimalPackage); // 'minimal-package'
 ```
 
 ---
-Copyright by Mario Nebl. Released under the MIT license.
+Copyright by Felix Scheffel & Mauricio Palma. Released under the MIT license.
